@@ -1,0 +1,10 @@
+Set db = OpenDatabase(App.Path & "\þifre.mdb")
+Set rs = db.OpenRecordset("tablo")
+rs.AddNew
+rs.Fields("adý") = Text1.Text
+rs.Fields("þifre") = Text2.Text
+rs.Update
+rs.Close
+MsgBox "kullanýcý adý ve þifre satýn alýndý."
+Text1 = ""
+Text2 = ""
