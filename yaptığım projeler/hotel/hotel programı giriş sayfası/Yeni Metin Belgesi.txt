@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------
+Set db = OpenDatabase("c:\hotel\hotel programý giriþ sayfasý\þifre.mdb")
+Set rs = db.OpenRecordset("tablo")
+For sayac = rs.MoveFirst To re.EOF
+If Text1.Text = rs!ad And Text2.Text = rs!þifre Then
+Form1.Hide
+Form3.Show
+Else
+rs.MoveNext
+End If
+Next sayac

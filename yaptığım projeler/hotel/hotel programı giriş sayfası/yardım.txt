@@ -1,0 +1,124 @@
+                          OTEL TAKÝP PROGRAMI
+----------------------------------------------------------------------------
+
+ * Küçük ve orta büyüklükteki otel, pansiyon vb. þirketler ile hastane vb. 
+   kurumlarýn müþteri takibi yapabilmesi için kullanýcý dostu bir arayüz
+   ve kolay kullaným sunan güvenli ve stabil bir programdýr.
+ * GÝYKÝMBÝL standartlarýna uygundur.
+ * Otomatik müþteri bilgileri kontrolü gibi geliþmiþ özellikler sunar.
+
+-Ayrýntýlý bilgiler madde 2 : Özellikler bölümündedir.
+
+----------------------------------------------------------------------------
+                                  Ýçerik
+----------------------------------------------------------------------------
+ 1. Ýhtiyaçlar 
+ 2. Özellikler
+ 3. Kullaným
+ 4. Kýsayollar
+ 5. Ulaþým Bilgileri
+ 6. Teþekkür
+----------------------------------------------------------------------------
+                            1.  Ýhtiyaçlar 
+----------------------------------------------------------------------------
+      OTEL TAKÝP PROGRAMI SÝSTEM ÝHTÝYAÇLARI
+
+    - 500 mhz. Intel Celeron/PIII/P4 AMD K6/Athlon iþlemci 
+    - 64 mb.sistem belleði (Windows XP için 128 mb. önerilir.)
+    - 70 mb boþ harddisk alaný (kurulum ve kullaným için gerekli olan)
+    - Vga grafik kartý
+    - Internet Explorer 5 veya üstü
+    - Windows 98SE/2000/ME/XP/2003 iþletim sistemlerinde çalýþýr.
+      (Windows 98 için desteðimiz olmamakla birlikte Windows 98 SE için
+       desteðimiz vardýr.)
+    - Windows 98SE için Avrupa Metin Dilleri Görüntüleme Eklentisinin 
+      Yüklenmiþ olmasý gereklidir.(Windows Update yoluyla yüklenebilir.)
+    - Windows 95 desteklenmez.
+----------------------------------------------------------------------------
+                               2.  Özellikler
+----------------------------------------------------------------------------
+                 OTEL TAKÝP PROGRAMI ANAHTAR ÖZELLÝKLERÝ
+1) Müþteri kayýdý iþlemleri en hýzlý þekilde kayýt yapýlabilecek þekilde
+   düzenlenmiþtir. Daha önce kayýt yapýlmýþ müþteriler tek týklamayla
+   çaðýrabilir.
+
+2) Ýþletmeye ait oda ve yatak tanýmlarý yapýlabilmesi sonucu daha kolay 
+   eriþim ve takip olanaðý saðlar.
+
+3) Otomatik Müþteri bilgileri kontrolü sayesinde sadece TC Kimlik Numarasý
+   deðil müþterilere ait tüm bilgilerin otomatik olarak kontrol edilmesi
+   olanaðý vardýr.
+----------------------------------------------------------------------------
+                                3.  Kullaným
+----------------------------------------------------------------------------
+   -Programý ilk çalýþtýrdýðýnýzda karþýnýza yükleme ekraný gelecektir.Yükleme ekraný kapandýktan 
+sonra sizden kullanýcý adý ve parola girmeniz istenecektir.Eðer daha önceden bir kullanýcý adý veya
+parola aldýysanýz o kullanýcý adý ve parolayla giriþ yapabilirsiniz.Eðer kullanýcý adý ve parolanýz yoksa 
+veya unuttuysanýz Yeni kullanýcý adý ve parola al düðmesini týklayýn.Kullanýcý adý ve parola satýn alýn ve 
+Giriþ sayfasýna dön düðmesine týklayýn.Kullanýcý adý ve parolanýzý girerek programý çalýþtýrýn.
+   -ANA SAYFA----------------------------------------------------------------- 
+Ana sayfada iþlemleri kolayca yapabilmeniz için toplam 8 adet düðme vardýr.Ayrýca iþlemlerinizi üst 
+panelden veya kýsayollar aracýlýðýyla yapabilirsiniz(NOT:KISAYOLLAR 4.BÖLÜMDE)
+
+***MÜÞTERÝ KAYIT---------------------------------------------------------------
++++Otel/pansiyon'a yeni katýlan müþterilerin kayýdýnýn yapýlacaðý bölümdür.Bu alan hýzlý ve doðru veri 
+giriþi saðlayacak þekilde düzenlenmiþtir.
++++Müþterinin, otele kayýt tarihi ve kayýt saati sürekli güncellenir. Bu sayede her kayýtta tarih 
+veya saat girmeniz gerekmez.
++++Müþteri bilgilerini girdikten sonra kaydet butonuna basýn.Odanýn dolu olup olmadýðýna dikkat edin.
+Eðer oda doluysa size bilgi mesajý verilecektir.
+
+***MÜÞTERÝ AYRILIÞ-------------------------------------------------------------
++++Müþteri ayrýlýþ iþlemini yapmak müþterinin T.C Kimlik Numarasýný girin ve BUL düðmesine týklayýn.
+Eðer müþteri otelde kayýtlýysa bilgileri gözükecektir,otelde kayýtlý deðilse bilgi mesajý verilecektir.
+Eðer müþterinin ayrýlýþ iþlemlerini baþlatmak istiyorsanýz,Müþteri Ayrýlýþ düðmesini týklayýn.Müþteri 
+ayrýlýþýný onaylýyorsanýz evet,onaylamýyosanýz hayýr'ý týklayýn.
+
+***MÜÞTERÝ BÝLGÝLERÝ------------------------------------------------------------
++++Kýsaca müþterilerin bütün bilgilerine kolay bir þekilde ulaþmanýzý saðlar.Ýleri,Geri,Son Kayýt ve
+Ýlk Kayýt gibi düðmelere týklayarak müþteriler arasýnda gezinebilirsiniz.
+
+***MÜÞTERÝ ARA----------------------------------------------------------------
++++Müþterilerin bilgilerine kolayca ulaþmanýzý saðlar.Müþteri bilgilerine ulaþmanýn 3 þekli vardýr.
+Bunlar;
+1-)T.C Kimlik Numarasý girerek müþteri aramanýzý,
+2-)Oda Numarasý girerek müþteri aramanýzý,
+3-)Telefon Numarasý girerek müþteri aramanýzý saðlar.
+
+***ODA DURUMU-----------------------------------------------------------------
++++Oda durumu bölümünde odalarýn dolu olup olmadýklarýný ve odalarýn kýsaca özelliklerini görebilirsiniz.
+
+***AYRILAN MÜÞTERÝLER---------------------------------------------------------
++++Otelimizden ayrýlan müþterilere daha sonra ulaþmak için tasarlanmýþtýr.Kýsaca bu bölümde 
+müþterinin bilgileri yer alýr.
+
+
+
+----------------------------------------------------------------------------
+                                        4.KISAYOLLAR
+----------------------------------------------------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ÖNEMLÝ NOT:KISAYOLLAR SADECE ANA SAYFADAYKEN GEÇERLÝDÝR!!!!!!!!!!!!!!!!!!!!!!!!
+CTRL+D=Kullanýcý deðiþtirmek için kullanýlýr.
+CTRL+K=Müþteri kayýt için kullanýlýr.
+CTRL+A=Müþteri ayrýlýþ için kullanýlýr.
+CTRL+B=Müþteri bilgileri için kullanýlýr.
+CTRL+S=Müþteri aramak için kullanýlýr.
+CTRL+O=Oda durumlarýný ve özelliklerini görmek için kullanýlýr.
+CTRL+Y=Yardým
+CTRL+H=Hakkýnda
+CTR+C=Çýkýþ
+
+
+----------------------------------------------------------------------------
+                                       5.ULAÞIM BÝLGÝLERÝ
+----------------------------------------------------------------------------
+           
+                                galatasaray_ozgur_94@hotmail.com
+
+----------------------------------------------------------------------------
+                                      6.TEÞEKKÜR
+----------------------------------------------------------------------------
+
+               PROGRAMIN YAPIMINDA EMEÐÝ GEÇEN HERKEZE TEÞEKKÜR EDERÝM.
+                                         ÖZGÜR KAN
+........................................11/AD SINIFI.....................................................
