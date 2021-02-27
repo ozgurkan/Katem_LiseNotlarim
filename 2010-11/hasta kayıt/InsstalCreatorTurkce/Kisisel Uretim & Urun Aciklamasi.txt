@@ -1,0 +1,9 @@
+Bu Yazýlým kiþisel üretim olup, tamamen ücretsiz bir yazýlýmdýr.
+Yazýlýmý kullanmasý, dagitmasý sertbestdir.
+Destek Öneri Ve Þikayetleriniz Ýçin Bana Yazabilirsiniz. ( parsanda@gmail.com )
+
+Yazýlým Gerreksinimleri :
+* "NET.Framework 2.0"
+* Veritabaný Ýþlemleri Kullanan Yazýlýmlarým Ýçinde Ýse "SQL Express"
+
+Tasarým & Programlama Murat Salmanoðlu.
